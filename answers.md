@@ -12,7 +12,9 @@
 
   Users
 
-# 2. What is a relational database- A database that organizes data in tables and established relationships between them.
+# 2. What is a relational database-
+
+  A database that organizes data in tables and established relationships between them.
 
 # 3. State and explain the classification of SQL
 
@@ -50,13 +52,13 @@
      
 # 7. State four types of data type used to store data in tables?
    
-    INT
+  INT
 
-    CHAR
+  CHAR
 
-    DECIMAL
+  DECIMAL
 
-    VARCHAR
+  VARCHAR
 
 # 8. What is the purpose of a database management system (DBMS)?
    
